@@ -56,13 +56,12 @@ Understanding of:
 * Presentation
 
 ### Module 2: Introduction to Responsive Web Design
-* Basic HTML5 updates: <header>, <nav>, <footer>, <article>, <aside>, <section>, etc
+* Basic HTML5 updates: &lt;header&gt;, &lt;nav&gt;, &lt;footer&gt;, &lt;article&gt;, &lt;aside&gt;, &lt;section&gt;, etc
 * Flexible Grids
 * Flexible images and media (Max-width, save for web, )
 * Media Queries (using min-width and good practices)
 * Em-based typography
 * Device testing
-
 
 ### Module 3: Advanced web typography, Progressive Enhancement, the business of RWD
 * Use of Typography servers such as Typekit
