@@ -79,3 +79,4 @@ Understanding of:
 * “[Ordering Disorder]()” by Khoi Vinh, book.
 * [Codepen](http://www.codepen.io)
 * [CSS-Tricks](http://www.css-tricks.com)
+* [Sass with RWD](http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32)
