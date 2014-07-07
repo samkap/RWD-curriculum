@@ -74,7 +74,7 @@ Understanding of:
 * “[Responsive Web Design](http://www.abookapart.com)” by Ethan Marcotte, $9 ebook, $16 paperback and ALA [article](http://www.alistapart.com/article/responsive-web-design/)
 * “[This is Responsive](http://bradfrost.github.io/this-is-responsive/)” by Brad Frost, free.
 * “[HTML & CSS](http://www.htmlandcssbook.com/)” by John Duckett
-* “[Elements of user Experience]()” by Jesse James Garrett], book.
+* “[Elements of user Experience]()” by Jesse James Garrett, book.
 * “[Designing for the Web](http://www.fivesimplesteps.co.uk)” by Mark Boulton, book.
 * “[Ordering Disorder]()” by Khoi Vinh, book.
 * [Codepen](http://www.codepen.io)
